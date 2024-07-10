@@ -1,4 +1,4 @@
-![cover](assets/cover.jpg)
+![cover](CyberWaifu-main/assets/cover.jpg)
 
 <p align="center">
   <a href="https://github.com/Syan-Lin/CyberWaifu/stargazers"><img src="https://img.shields.io/github/stars/Syan-Lin/CyberWaifu?color=cd7373&amp;logo=github&amp;style=for-the-badge" alt="Github stars"></a>
